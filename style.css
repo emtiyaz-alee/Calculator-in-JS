@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+h2{
+    color: white;
+}
+.main{
+    text-align: center;
+    background-color: skyblue;
+    width: 20%;
+    margin: 30px auto;
+}
+input{
+    width: 100%;
+    background-color: #bcc65b;
+    padding: 20px;
+}
+.digit{
+
+margin: 2px;
+width: 50px;
+}
